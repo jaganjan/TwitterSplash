@@ -1,4 +1,6 @@
 # Twitter Splash for Android
+
+[![Join the chat at https://gitter.im/jaganjan/TwitterSplash](https://badges.gitter.im/jaganjan/TwitterSplash.svg)](https://gitter.im/jaganjan/TwitterSplash?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 by Yildiz Kabaran
 
 A simple replication of Twitter's splash animation as seen in Twitter iOS app. The animation can be used with any app logo as long as a transparent icon with a solid background is provided.
